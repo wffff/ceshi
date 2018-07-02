@@ -18,7 +18,7 @@
         <!-- servlet的内部名称，一定要和上面的内部名称保持一致！！ -->
         <servlet-name>ccc</servlet-name>
         <!-- servlet的映射路径（访问servlet的名称） -->
-        <url-pattern>/ccc</url-pattern>
+        <url-pattern>/bbb</url-pattern>
     </servlet-mapping>
 
 
